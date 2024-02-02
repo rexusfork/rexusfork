@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Mobile Application Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **React Native and Flutter**
 
-- 💬 Ask me about **Java, Flutter and Kotlin**
+- 💬 Ask me about **Java For Mobile Application**
 
 - 📫 How to reach me **pdiasperdana@gmail.com**
 
